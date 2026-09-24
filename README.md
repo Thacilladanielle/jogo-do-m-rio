@@ -1,4 +1,4 @@
-# jogo-do-m-rio
+# jogo-do-mario
 ##integrantes
 
 | Nome             | Matrícula       | Papel         |
